@@ -5,7 +5,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IluhaZaz&theme=solarized_dark) 
 <h3>And Leetcode stats</h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ilya_zazvonov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ilya_zazvonov?ext=heatmap)
+
 <!---
 IluhaZaz/IluhaZaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
